@@ -1,0 +1,11 @@
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.deps.json
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.runtimeconfig.json
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.runtimeconfig.dev.json
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.dll
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.csprojResolveAssemblyReference.cache
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.csproj.CoreCompileInputs.cache
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.AssemblyInfoInputs.cache
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.AssemblyInfo.cs
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\bin\Debug\netcoreapp2.0\InheritanceExample.pdb
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.dll
+D:\Git\efcore2-inheritance-bug\InheritanceExample\InheritanceExample\obj\Debug\netcoreapp2.0\InheritanceExample.pdb
